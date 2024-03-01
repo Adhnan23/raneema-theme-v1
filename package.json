@@ -4,6 +4,7 @@
   "description": "Elevate your coding experience with Raneema Theme v1, a meticulously crafted Visual Studio Code theme designed for developers who appreciate a perfect blend of aesthetics and functionality.",
   "version": "0.0.1",
   "publisher": "Karots77",
+  "icon": "/logo.png",
   "engines": {
     "vscode": "^1.87.0"
   },
