@@ -1,0 +1,30 @@
+{
+  "name": "raneema-theme-v1",
+  "displayName": "Raneema-Theme-V1",
+  "description": "Elevate your coding experience with Raneema Theme v1, a meticulously crafted Visual Studio Code theme designed for developers who appreciate a perfect blend of aesthetics and functionality.",
+  "version": "0.0.1",
+  "publisher": "Karots77",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "crazy",
+    "raneema",
+    "black"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Crazy vscode theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Crazy vscode theme-color-theme.json"
+      }
+    ]
+  }
+}
