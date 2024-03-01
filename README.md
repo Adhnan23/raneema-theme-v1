@@ -2,6 +2,14 @@
 
 Elevate your coding experience with **Raneema Theme v1**, a meticulously crafted Visual Studio Code theme designed for developers who appreciate a perfect blend of aesthetics and functionality.
 
+## Screenshots
+
+![Screenshot 1](screenshots/screenshot1.png)
+
+![Screenshot 2](screenshots/screenshot2.png)
+
+
+
 ## Key Features
 
 🎨 **Distinctive Color Palette:** Raneema Theme v1 introduces a carefully curated color palette that enhances code readability and reduces eye strain, allowing you to focus on what matters most—writing flawless code.
