@@ -18,6 +18,10 @@
     "raneema",
     "black"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adhnan23/raneema-theme-v1.git"
+  },
   "contributes": {
     "themes": [
       {
